@@ -18,13 +18,7 @@ A high-accuracy neural network for MNIST digit classification, built entirely fr
 
 ## Demo
 
-<p align="center">
-  <b>Try it yourself! Draw a digit and watch the model predict in real time:</b><br>
-  <video autoplay loop muted playsinline width="320">
-    <source src="assets/Digit_Demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
+[▶️ Watch the interactive demo video (MP4)](assets/Digit_Demo.mp4)
 
 ---
 
