@@ -84,6 +84,7 @@ models/*.p
 models/*.h5
 models/*.ckpt
 assets/*.mp4
+assets/Digit_Demo.mp4
 
 # Videos and large files
 #assets/*.mp4
