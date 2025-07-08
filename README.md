@@ -18,6 +18,8 @@ A high-accuracy neural network for MNIST digit classification, built entirely fr
 
 ## Demo
 
+![Demo GIF](assets/demo.gif)
+
 [▶️ Watch the interactive demo video (MP4)](assets/Digit_Demo.mp4)
 
 ---
