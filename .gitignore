@@ -77,16 +77,16 @@ docs/_build/
 .dmypy.json
 
 # Data and models
-assets/*.csv
-assets/*.zip
-assets/*.gz
-assets/*.npz
+# (Allow assets/*.csv and assets/*.mp4 to be tracked)
+#assets/*.csv
+#assets/*.mp4
 models/*.p
 models/*.h5
 models/*.ckpt
+assets/*.mp4
 
 # Videos and large files
-assets/*.mp4
+#assets/*.mp4
 
 # Misc
 *.DS_Store
