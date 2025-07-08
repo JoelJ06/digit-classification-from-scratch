@@ -132,7 +132,7 @@ Opens a drawing interface for real-time digit prediction.
 ## Dataset
 
 - Uses the MNIST dataset (CSV format) in `assets/`
-- If not present, download from [Kaggle](https://www.kaggle.com/c/digit-recognizer/data) or [Yann LeCun's website](http://yann.lecun.com/exdb/mnist/)
+- Or download from [Kaggle](https://www.kaggle.com/c/digit-recognizer/data) or [Yann LeCun's website](http://yann.lecun.com/exdb/mnist/)
 
 ---
 
