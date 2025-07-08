@@ -106,9 +106,7 @@ Opens a drawing interface for real-time digit prediction.
 │   ├── test.csv              # MNIST test data
 │   └── Digit_Demo.mp4        # Demo video
 ├── models/
-│   └── network.p             # Saved trained model
-└── misc/
-    └── ...                   # Additional files
+    └── network.p             # Saved trained model
 ```
 
 ---
