@@ -152,3 +152,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - MNIST dataset from Yann LeCun
 - Inspiration from classic feedforward neural network designs
+- Goat 3b1b
